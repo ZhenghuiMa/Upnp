@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" xmlns:u="http://192.168.0.18:49153/upnp/control/basicevent1">
+    <s:Body>
+        <u:GetBinaryStateResponse xmlns:u="urn:Belkin:service:basicevent:1">
+            <BinaryState>0</BinaryState>
+        </u:GetBinaryStateResponse>
+    </s:Body>
+</s:Envelope>
